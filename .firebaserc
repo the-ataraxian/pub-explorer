@@ -1,12 +1,12 @@
 {
   "projects": {
-    "default": "nibiru-chain"
+    "default": "furya-chain"
   },
   "targets": {
-    "nibiru-chain": {
+    "furya-chain": {
       "hosting": {
         "explorer": [
-          "nibiru-explorer"
+          "furya-explorer"
         ]
       }
     }

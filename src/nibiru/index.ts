@@ -1,9 +1,9 @@
 import type { LocalConfig } from '@/stores';
 
-const PLAYGROUND_NETWORKS = 'https://networks.play.nibiru.fi/ping-pub';
-const DEV_NETWORKS = 'https://networks.devnet.nibiru.fi/ping-pub';
-const ITN_NETWORKS = 'https://networks.testnet.nibiru.fi/ping-pub';
-const MAIN_NETWORK = 'https://networks.nibiru.fi/ping-pub';
+const PLAYGROUND_NETWORKS = 'https://networks.play.furya.fi/ping-pub';
+const DEV_NETWORKS = 'https://networks.devnet.furya.fi/ping-pub';
+const ITN_NETWORKS = 'https://networks.testnet.furya.fi/ping-pub';
+const MAIN_NETWORK = 'https://networks.furya.fi/ping-pub';
 
 export const getNetwork = async (url: string): Promise<LocalConfig[]> => {
   try {
@@ -18,7 +18,7 @@ export const getNetwork = async (url: string): Promise<LocalConfig[]> => {
   }
 };
 
-export const getNibiruChains = async (): Promise<{
+export const getFuryaChains = async (): Promise<{
   [key: string]: LocalConfig;
 }> => {
   const [itn, dev, main] = await Promise.all([

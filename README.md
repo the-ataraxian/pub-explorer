@@ -2,9 +2,9 @@
 
 ![Ping Wallet](./public/logo.svg)
 
-<h1>Nibiru Explorer</h1>
+<h1>Furya Explorer</h1>
 
-**Nibiru Explorer is not only an explorer but also a wallet and more ... 🛠**
+**Furya Explorer is not only an explorer but also a wallet and more ... 🛠**
 
 [![version](https://img.shields.io/github/tag/ping-pub/explorer.svg)](https://github.com/ping-pub/explorer/releases/latest)
 [![GitHub](https://img.shields.io/github/license/ping-pub/explorer.svg)](https://github.com/ping-pub/explorer/blob/master/LICENSE)
@@ -13,22 +13,22 @@
 
 </div>
 
-`Nibiru Explorer` is a light explorer for Cosmos-based Blockchains. https://ping.pub .
+`Furya Explorer` is a light explorer for Cosmos-based Blockchains. https://ping.pub .
 
-## What sets Nibiru Explorer apart from other explorers?
+## What sets Furya Explorer apart from other explorers?
 
-**Nibiru Explorer** stands out by providing a real-time exploration of blockchain data without relying on caching or pre-processing. It exclusively fetches data from the Cosmos full node via LCD/RPC endpoints, ensuring a truly authentic experience. This approach is referred to as the "Light Explorer."
+**Furya Explorer** stands out by providing a real-time exploration of blockchain data without relying on caching or pre-processing. It exclusively fetches data from the Cosmos full node via LCD/RPC endpoints, ensuring a truly authentic experience. This approach is referred to as the "Light Explorer."
 
 ## Are you interested in listing your blockchain on https://ping.pub?
 
 To make this repository clean, please submit your request to https://github.com/ping-pub/ping.pub.git
 
-## Why does Nibiru Explorer rely on official/trusted third-party public LCD/RPC servers?
+## Why does Furya Explorer rely on official/trusted third-party public LCD/RPC servers?
 
 There are two primary reasons for this choice:
 
-- Trust: In a decentralized system, it is crucial to avoid relying solely on a single entity. By utilizing official/trusted third-party public LCD/RPC servers, Nibiru Explorer ensures that the data is sourced from a network of trusted participants.
-- Limited Resources: As Nibiru Explorer plans to list hundreds of Cosmos-based blockchains in the future, it is impractical for the Ping team to operate validators or full nodes for all of them. Leveraging trusted third-party servers allows for more efficient resource allocation.
+- Trust: In a decentralized system, it is crucial to avoid relying solely on a single entity. By utilizing official/trusted third-party public LCD/RPC servers, Furya Explorer ensures that the data is sourced from a network of trusted participants.
+- Limited Resources: As Furya Explorer plans to list hundreds of Cosmos-based blockchains in the future, it is impractical for the Ping team to operate validators or full nodes for all of them. Leveraging trusted third-party servers allows for more efficient resource allocation.
 
 ## Donation
 

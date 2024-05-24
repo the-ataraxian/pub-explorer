@@ -29,4 +29,4 @@ jobs:
         with:
           push: true
           platforms: linux/amd64
-          tags: ghcr.io/nibiruchain/explorer:latest,ghcr.io/nibiruchain/explorer:${{ steps.get_version.outputs.version-without-v }}
+          tags: ghcr.io/furyachain/explorer:latest,ghcr.io/furyachain/explorer:${{ steps.get_version.outputs.version-without-v }}

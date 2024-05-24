@@ -9,22 +9,22 @@
       <img src="../../assets/images/heart.svg" />&nbsp; By&nbsp;
       <a
         class="link link-primary no-underline"
-        href="https://nibiru.fi"
+        href="https://docs.furya.netowrk"
         target="_blank"
         rel="noopener noreferrer"
-        >Nibiru</a
+        >Furya</a
       >
     </div>
     <div class="hidden md:!block">
       <a
         class="link link-primary no-underline mr-4"
-        href="https://github.com/NibiruChain/explorer/blob/master/LICENSE"
+        href="https://github.com/FuryaChain/explorer/blob/master/LICENSE"
         target="noopener noreferrer"
         >License</a
       >
       <a
         class="link link-primary no-underline"
-        href="https://github.com/NibiruChain/explorer"
+        href="https://github.com/Furychain/explorer"
         target="noopener noreferrer"
         >Github</a
       >

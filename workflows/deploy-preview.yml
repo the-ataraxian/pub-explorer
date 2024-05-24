@@ -27,6 +27,6 @@ jobs:
         with:
           repoToken: "${{ secrets.GITHUB_TOKEN }}"
           firebaseServiceAccount: "${{ secrets.FIREBASE_SERVICE_ACCOUNT_NIBIRU_CHAIN }}"
-          projectId: nibiru-chain
+          projectId: furya-chain
           expires: 14d
           target: explorer

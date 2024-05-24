@@ -1,0 +1,31 @@
+{
+  "chain_name": "furya-1",
+  "registry_name": "furya",
+  "api": [
+    {
+      "address": "https://api.furya.xyz",
+      "provider": "BlackfuryDAO"
+    }
+  ],
+  "rpc": [
+    {
+      "address": "https://rpc.furya.xyz",
+      "provider": "BlackfuryDAO"
+    }
+  ],
+  "sdk_version": "0.47.8",
+  "coin_type": "118",
+  "min_tx_fee": "2500",
+  "addr_prefix": "furya",
+  "logo": "/logos/furya.png",
+  "theme_color": "#36bfb1",
+  "assets": [
+    {
+      "base": "ufury",
+      "symbol": "FURY",
+      "exponent": "6",
+      "coingecko_id": "fanfury",
+      "logo": "/logos/fury.png"
+    }
+  ]
+}
