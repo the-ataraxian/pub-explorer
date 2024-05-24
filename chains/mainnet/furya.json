@@ -4,13 +4,21 @@
   "api": [
     {
       "address": "https://api.furya.xyz",
-      "provider": "BlackfuryDAO"
+      "provider": "Genesis"
+    },
+    {
+      "address": "https://furya.api.nodeshub.online/",
+      "provider": "Nodeshub"
     }
   ],
   "rpc": [
     {
       "address": "https://rpc.furya.xyz",
-      "provider": "BlackfuryDAO"
+      "provider": "Genesis"
+    },
+    {
+      "address": "https://furya-rpc.synergynodes.com/",
+      "provider": "Synergy Nodes"
     }
   ],
   "sdk_version": "0.47.8",
