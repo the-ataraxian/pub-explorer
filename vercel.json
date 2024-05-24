@@ -1,0 +1,6 @@
+{
+    "rewrites": [
+      { "source": "/", "destination": "/furya-1" }
+    ]
+  }
+  
