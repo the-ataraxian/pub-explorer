@@ -38,12 +38,12 @@ export const useIndexModule = defineStore('module-index', {
         categories: [] as string[],
         market_cap_rank: 0,
         links: {
-          twitter_screen_name: '',
-          homepage: [] as string[],
+          twitter_screen_name: 'furyachain',
+          homepage: ['https://docs.furya.network'] as string[],
           repos_url: {
-            github: [],
+            github: ['https://github.com/furysport'],
           },
-          telegram_channel_identifier: '',
+          telegram_channel_identifier: 'FuryaChain',
         },
         market_data: {
           price_change_percentage_24h: 0,
