@@ -9,7 +9,7 @@
       <img src="../../assets/images/heart.svg" />&nbsp; By&nbsp;
       <a
         class="link link-primary no-underline"
-        href="https://docs.furya.netowrk"
+        href="https://docs.furya.network"
         target="_blank"
         rel="noopener noreferrer"
         >Furya</a
